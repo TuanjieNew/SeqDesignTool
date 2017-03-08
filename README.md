@@ -1,2 +1,2 @@
 # SeqDesignTool
-For the disign of gene editing guide sequence
+Design the guide sequence for the crispr/cas9 and ngago.
